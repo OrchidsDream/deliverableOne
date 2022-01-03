@@ -1,0 +1,12 @@
+<!DOCUTYPE HTML>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>The Beautiful People!</title>
+</head>
+<body>
+	<p>
+		The Beautiful People!
+	</p>
+</body>
+</html>
